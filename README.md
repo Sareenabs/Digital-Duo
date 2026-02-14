@@ -2,27 +2,28 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [TRUSTORA]🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [DIGITAL DUO]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Sareena B S] - [LBS instistute of technology for women, poojappura,TVM]
+- Member 2: [Sabeena Fathima H] - [LBS instistute of technology for women, poojappura,TVM]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://sareenabs.github.io/Digital-Duo/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Trustora is a hyperlocal marketplace that connects homemakers and young innovators with nearby customers through a simple and trustworthy platform. It enables sellers to easily register and upload products, while customers can discover local items and place orders based on their location. By promoting local buying and selling, Trustora empowers small businesses and strengthens the local economy.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Many homemakers and young innovators possess valuable skills such as cooking, crafting, tailoring, and creating handmade products. However, despite their  talent, they struggle to turn their skills into a source of income.They face several major challenges:Lack of a proper online platform to sell their products,Limited technical knowledge to create and manage online stores,No marketing support to reach customers,Trust issues between buyers and sellers
+Difficulty in finding local customers Because of these problems, many skilled individuals are unable to showcase their products or grow their small businesses.]
 
 ### The Solution
-[How are you solving it?]
+[]
 
 ---
 
@@ -31,10 +32,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [e.g., JavaScript, Html, Css]
+- Frameworks used: [Firebase]
+- Libraries used: [Bootstrap, Tailwind css, Axios, jQuery]
+- Tools used: [ VS Code, Git]
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,10 +47,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [seller registration]
+- Feature 2: [customer registration]
+- Feature 3: [product upload and management]
+- Feature 4: [cash on delivery]
 
 ---
 
@@ -83,14 +84,17 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1886" height="909" alt="image" src="https://github.com/user-attachments/assets/57fafc4a-9682-4230-b450-4ae24156eb11" />
+](Add screenshot 1 here with proper name)
+*site interface*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1874" height="902" alt="image" src="https://github.com/user-attachments/assets/70cf0223-cc58-4aea-a6e4-85075960d8de" />
+](Add screenshot 2 here with proper name)
+*seller registration interface*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1876" height="912" alt="image" src="https://github.com/user-attachments/assets/dd870c9e-3fbf-4474-9696-452171cb427c" />
+](Add screenshot 3 here with proper name)
+*product search interface*
 
 #### Diagrams
 
@@ -101,7 +105,8 @@ List the key features of your project:
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
+![<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/10896e8a-a537-4277-a2f9-33ecb620accf" />
+](docs/workflow.png)
 *Add caption explaining your workflow*
 
 ---
@@ -118,15 +123,18 @@ List the key features of your project:
 
 #### Build Photos
 
-![Team](Add photo of your team here)
+![<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4db4ded7-e9ae-42d8-8fea-866fc723fa2e" />
+](Add photo of your team here)
 
 ![Components](Add photo of your components here)
 *List out all components shown*
 
-![Build](Add photos of build process here)
+![<img width="1917" height="1015" alt="Screenshot 2026-02-14 091420" src="https://github.com/user-attachments/assets/dde087fe-a056-4e2b-98bc-f3defb4a8e78" />
+](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+![<img width="1886" height="909" alt="Screenshot 2026-02-14 090832" src="https://github.com/user-attachments/assets/25bb751c-8ba3-4311-9e24-b9aa0b45f912" />
+](Add photo of final product here)
 *Explain the final build*
 
 ---
@@ -137,7 +145,7 @@ List the key features of your project:
 
 #### API Documentation
 
-**Base URL:** `https://api.yourproject.com`
+**Base URL:*https://sareenabs.github.io/Digital-Duo/* 
 
 ##### Endpoints
 
@@ -361,7 +369,7 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://dragon.compress2go.com/download-file/7d46b927-6318-48a1-bab8-0e3315bdb456/a2f42b16-952c-43c7-86c1-407f82006b70
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
